@@ -1,3 +1,5 @@
+Mostly these documents are informational and for reference only.
+
 == SparkFun WiFly Shield Library : alpha 1 release ==
 
 This is a library for the Arduino-compatible WiFly Shield available from
