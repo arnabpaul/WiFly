@@ -1,4 +1,6 @@
-Mostly these documents are informational and for reference only.
+The document Presentation1.pptx shows the wifly project documantation.
+
+Rest of the files are informational and for reference only.
 
 == SparkFun WiFly Shield Library : alpha 1 release ==
 
