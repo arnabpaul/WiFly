@@ -1,4 +1,4 @@
-The document Presentation1.pptx shows the wifly project documantation.
+The document "Project Smart Wireless...pptx" shows the wifly project documantation.
 
 Rest of the files are informational and for reference only.
 
